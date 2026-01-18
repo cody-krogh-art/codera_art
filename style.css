@@ -36,8 +36,8 @@ a {
 img {
   position: center;
   min-height: 300px; 
-  width: 480px; 
-  height: 270px;
+  width: 50%; 
+  height: 50%;
 }
 .header {
   animation-duration: 2s;

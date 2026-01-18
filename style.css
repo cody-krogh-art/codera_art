@@ -59,7 +59,7 @@ a {
   border: 1px solid black; 
   padding: 10px;
   vertical-align: middle;
-  width: 100%; 
+  max-width: 50%;
 }
 a.class1 {
   color: #B89123;

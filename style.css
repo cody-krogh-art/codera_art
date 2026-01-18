@@ -4,31 +4,31 @@ body {
 header {
   display:block;
   position:fixed;
-  background-color:#808080;
+  background-color:##57554F;
   margin:0;
   padding:0;
-  width:100%;
+  width:100vw;
   height:60px;
   top:0;
 }
 h1 {
-  color:#D6A829;
+  color:#B89123;
   font-family: "inter";
 }
 h2 {
-  color:#D6A829;
+  color:#B89123;
   font-family: "inter";
 }
 h3 {
-  color:#D6A829;
+  color:#B89123;
   font-family: "inter";
 }
 p {
-  color:#D6A829;
+  color:#B89123;
   font-family: "inter";
 }
 a {
-  color:#D6A829;
+  color:#B89123;
   font-family: "inter";
 }
 .header {
@@ -46,10 +46,10 @@ a {
   animation-name: slidein;
 }
 a.class1 {
-  color: #D6A829;
+  color: #B89123;
 }
 a.class2 {
-  color: #D6A829;
+  color: #B89123;
 }
 @keyframes slidein {
   from {

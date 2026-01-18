@@ -52,6 +52,12 @@ img {
   animation-duration: 2s;
   animation-name: slidein;
 }
+.container {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%; 
+}
 a.class1 {
   color: #B89123;
 }

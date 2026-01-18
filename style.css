@@ -1,7 +1,7 @@
-body{
+body {
   background-color:#36454F;
 }
-header{
+header {
   display:block;
   position:fixed;
   background-color:#818589;
@@ -11,18 +11,18 @@ header{
   height:60px;
   top:0;
 }
-h1{
+h1 {
   color:#DAA06D;
 }
-h2{
+h2 {
   color:#DAA06D;
 }
-h3{
+h3 {
   color:#DAA06D;
 }
-p{
+p {
   color:#DAA06D;
 }
-a{
+a {
   color:#DAA06D;
 }

@@ -37,7 +37,7 @@ img {
   position: center;
   min-height: 300px; 
   width: 50%; 
-  height: 50%;
+  height: auto;
 }
 .header {
   animation-duration: 2s;

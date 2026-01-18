@@ -4,7 +4,7 @@ body {
 header {
   display:block;
   position:fixed;
-  background-color:#E9D29C;
+  background-color:#808080;
   margin:0;
   padding:0;
   width:100%;
@@ -12,41 +12,41 @@ header {
   top:0;
 }
 h1 {
-  color:#E9D29C;
+  color:#D6A829;
   font-family: "inter";
 }
 h2 {
-  color:#E9D29C;
+  color:#D6A829;
   font-family: "inter";
 }
 h3 {
-  color:#E9D29C;
+  color:#D6A829;
   font-family: "inter";
 }
 p {
-  color:#E9D29C;
+  color:#D6A829;
   font-family: "inter";
 }
 a {
-  color:#233E47;
+  color:#D6A829;
   font-family: "inter";
 }
 .header {
-  animation-duration: 1s;
+  animation-duration: 2s;
   animation-name: slidein;
   background-image: url('FieldBackground.PNG');
   background-repeat: no-repeat;
   background-size: cover; 
 } 
 .header2 {
-  animation-duration: 1s;
+  animation-duration: 2s;
   animation-name: slidein;
 }
 a.class1 {
-  color: #233E47;
+  color: #D6A829;
 }
 a.class2 {
-  color: #E9D29C;
+  color: #D6A829;
 }
 @keyframes slidein {
   from {

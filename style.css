@@ -37,6 +37,7 @@ a {
   background-image: url('FieldBackground.PNG');
   background-repeat: no-repeat;
   background-size: cover; 
+  min-height: 300px; 
 } 
 .header2 {
   animation-duration: 2s;

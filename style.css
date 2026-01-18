@@ -46,6 +46,21 @@ a {
   animation-duration: 2s;
   animation-name: slidein;
 }
+.row {
+  display: flex; 
+  flex-wrap: wrap; 
+  padding: 0 4px; 
+}
+.column {
+  flex: 25%; 
+  max-width: 25%;
+  padding: 0 4px; 
+}
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%; 
+}
 a.class1 {
   color: #B89123;
 }
@@ -60,4 +75,16 @@ a.class2 {
   to{
     translate: 0 0;
     scale: 100% 1;
+}
+@media screen and (max-width: 800px) {
+  .column {
+    flex: 50%;
+    max-width: 50%;
+  }
+}
+@media screen and (max-width: 600px;) {
+  .column {
+    flex: 100%;
+    max-width: 100%;
+  }
 }

@@ -13,23 +13,23 @@ header {
 }
 h1 {
   color:#E9D29C;
-  font-family: "Trebuchet MS", Tahoma, sans-serif;
+  font-family: "inter";
 }
 h2 {
   color:#E9D29C;
-  font-family: "Trebuchet MS", Tahoma, sans-serif;
+  font-family: "inter";
 }
 h3 {
   color:#E9D29C;
-  font-family: "Trebuchet MS", Tahoma, sans-serif;
+  font-family: "inter";
 }
 p {
   color:#E9D29C;
-  font-family: "Trebuchet MS", Tahoma, sans-serif;
+  font-family: "inter";
 }
 a {
   color:#233E47;
-  font-family: "Trebuchet MS", Tahoma, sans-serif;
+  font-family: "inter";
 }
 .header {
   animation-duration: 1s;

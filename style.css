@@ -46,19 +46,6 @@ a {
   animation-duration: 2s;
   animation-name: slidein;
 }
-.container {
-  display: grid;
-  grid-template-columns: auto auto auto;
-  padding: 10px;
-  flex: 25%; 
-  max-width: 25%;
-  padding: 0 4px; 
-}
-.container img {
-  margin-top: 8px;
-  padding: 10px;
-  vertical-align: middle;
-}
 a.class1 {
   color: #B89123;
 }

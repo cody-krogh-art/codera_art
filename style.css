@@ -58,6 +58,10 @@ img {
   margin-right: auto;
   width: 50%; 
 }
+.container img {
+  width: 50%;
+  height: auto;
+}
 a.class1 {
   color: #B89123;
 }

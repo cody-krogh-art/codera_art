@@ -1,10 +1,10 @@
 body {
-  background-color:#36454F;
+  background-color:#233E47;
 }
 header {
   display:block;
   position:fixed;
-  background-color:#818589;
+  background-color:#E9D29C;
   margin:0;
   padding:0;
   width:100%;
@@ -12,23 +12,23 @@ header {
   top:0;
 }
 h1 {
-  color:#DAA06D;
+  color:#E9D29C;
   font-family: "Trebuchet MS", Tahoma, sans-serif;
 }
 h2 {
-  color:#DAA06D;
+  color:#E9D29C;
   font-family: "Trebuchet MS", Tahoma, sans-serif;
 }
 h3 {
-  color:#DAA06D;
+  color:#E9D29C;
   font-family: "Trebuchet MS", Tahoma, sans-serif;
 }
 p {
-  color:#DAA06D;
+  color:#E9D29C;
   font-family: "Trebuchet MS", Tahoma, sans-serif;
 }
 a {
-  color:#DAA06D;
+  color:#233E47;
   font-family: "Trebuchet MS", Tahoma, sans-serif;
 }
 .header {

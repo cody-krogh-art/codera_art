@@ -36,6 +36,12 @@ a {
   animation-name: slidein;
   background-image: url('FieldBackground.PNG');
 } 
+a.class1 {
+  color: #233E47;
+}
+a.class2 {
+  color: #E9D29C;
+}
 @keyframes slidein {
   from {
     translate: 150vw 0;

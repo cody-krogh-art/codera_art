@@ -38,6 +38,7 @@ a {
   background-repeat: no-repeat;
   background-size: cover; 
   min-height: 300px; 
+  width: 100%;
 } 
 .header2 {
   animation-duration: 2s;

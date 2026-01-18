@@ -38,6 +38,10 @@ a {
   background-repeat: no-repeat;
   background-size: cover; 
 } 
+.header2 {
+  animation-duration: 1s;
+  animation-name: slidein;
+}
 a.class1 {
   color: #233E47;
 }

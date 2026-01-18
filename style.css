@@ -32,6 +32,12 @@ a {
   color:#B89123;
   font-family: "inter";
 }
+img {
+  position: center;
+  min-height: 300px; 
+  width: 480px; 
+  height: 270px;
+}
 .header {
   animation-duration: 2s;
   animation-name: slidein;

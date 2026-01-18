@@ -35,6 +35,7 @@ a {
   animation-duration: 1s;
   animation-name: slidein;
   background-image: url('FieldBackground.PNG');
+  background-size: 300px 100px; 
 } 
 a.class1 {
   color: #233E47;

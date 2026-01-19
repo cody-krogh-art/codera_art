@@ -1,5 +1,7 @@
 body {
   background-color:#D5D3CC;
+  margin: 0;
+  padding: 0;
 }
 header {
   display:block;

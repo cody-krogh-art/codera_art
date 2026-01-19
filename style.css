@@ -65,8 +65,10 @@ img {
 img {
   height: 200px;
   width: auto; 
-  margin-left: 20px;
-  margin-right: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 a.class1 {
   color: #B89123;

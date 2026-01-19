@@ -52,7 +52,7 @@ img {
   min-height: 300px; 
   width: 100%;
 } 
-.header2 {
+nav {
   animation-duration: 2s;
   animation-name: slidein;
 }

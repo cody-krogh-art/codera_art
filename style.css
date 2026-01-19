@@ -74,6 +74,9 @@ a.class1 {
 a.class2 {
   color: #B89123;
 }
+#instabadge, #linkedinbadge {
+  display: inline;
+}
 @keyframes slidein {
   from {
     translate: 150vw 0;

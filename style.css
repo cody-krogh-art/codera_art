@@ -60,9 +60,14 @@ img {
   margin-right: auto;
   width: 50%; 
 }
+.center {
+  text-align: center
+}
 img {
-  width: auto;
-  height: auto;
+  height: 200px;
+  width: auto; 
+  margin-left: 20px;
+  margin-right: 20px;
 }
 a.class1 {
   color: #B89123;

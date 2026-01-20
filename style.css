@@ -39,6 +39,20 @@ img {
   position: center;
   object-fit: scale-down;
 }
+img {
+  height: 200px;
+  width: auto; 
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+a.class1 {
+  color: #B89123;
+}
+a.class2 {
+  color: #B89123;
+}
 .header {
   animation-duration: 2s;
   animation-name: slidein;
@@ -55,26 +69,13 @@ img {
 }
 .container {
   display: inline;
+  justify-content: center;
   margin-left: auto;
   margin-right: auto;
   width: 50%; 
 }
 .center {
   text-align: center
-}
-img {
-  height: 200px;
-  width: auto; 
-  margin-left: 10px;
-  margin-right: 10px;
-  margin-top: 10px;
-  margin-bottom: 10px;
-}
-a.class1 {
-  color: #B89123;
-}
-a.class2 {
-  color: #B89123;
 }
 #instabadge, #linkedinbadge {
   display: inline;

@@ -74,6 +74,7 @@ a.class2 {
   display: inline-block;
   margin: auto; 
   width: 50%; 
+  align-items: center;
 }
 .center {
   text-align: center

@@ -36,13 +36,15 @@ a {
   font-family: "inter";
 }
 img {
-  position: center;
-  object-fit: scale-down;
-}
-img {
   height: 200px;
   width: auto; 
   margin: 10px;
+  position: center;
+  object-fit: scale-down;
+}
+img: hover {
+  height: 250px;
+  width: auto;
 }
 a.class1 {
   color: #B89123;

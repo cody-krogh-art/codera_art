@@ -69,10 +69,12 @@ a.class2 {
 .header2 {
   animation-duration: 2s; 
   animation-name: slidein; 
+  max-width: 100vw;
 }
 .container {
   display: inline-block;
   margin: auto; 
+  padding: auto;
   width: 50%; 
   align-items: center;
 }

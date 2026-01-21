@@ -73,6 +73,7 @@ a.class2 {
 .container {
   display: flex;
   justify-content: center;
+  text-align: center;
 }
 .center {
   text-align: center

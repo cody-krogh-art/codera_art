@@ -82,6 +82,8 @@ a.class2 {
 }
 #instabadge, #linkedinbadge {
   display: inline-block;
+  flex-wrap: wrap;
+  justify-content: center;
   margin: auto; 
   width: 50%; 
   padding: 25%;

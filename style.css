@@ -112,6 +112,7 @@ a.class2 {
   color: #444;
   cursor: pointer;
   padding: 18px;
+  margin: 20px; 
   width: 100%;
   border: none;
   text-align: left;

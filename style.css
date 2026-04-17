@@ -95,6 +95,7 @@ a.class2 {
   flex-wrap: wrap;
   justify-content: center;
   margin: auto; 
+  max-height: 200px; 
 }
 @keyframes slidein {
   from {

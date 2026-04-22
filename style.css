@@ -51,11 +51,6 @@ img {
   object-fit: scale-down;
 }
 video {
-  height: 400px; 
-  width: auto; 
-  max-width: 400px; 
-  max-height: 400px; 
-  margin: 10px; 
   position: inline-block; 
 }
 a.class1 {

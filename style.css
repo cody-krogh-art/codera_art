@@ -57,7 +57,6 @@ video {
   max-height: 200px; 
   margin: 10px; 
   position: inline-block; 
-  object-fit: scale-down; 
 }
 a.class1 {
   color: #B89123;

@@ -52,6 +52,7 @@ img {
 }
 video {
   position: inline-block; 
+  padding: 10px; 
 }
 a.class1 {
   color: #B89123;

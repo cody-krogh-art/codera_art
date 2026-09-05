@@ -61,7 +61,7 @@ a.class2 {
   color: #B89123;
 }
 .header {
-  animation-duration: 2s;
+  animation-duration: 0.5s;
   animation-name: slidein;
   background-image: url('FieldBackground.PNG');
   background-repeat: no-repeat;
@@ -71,7 +71,7 @@ a.class2 {
   width: 100%;
 } 
 .header2 {
-  animation-duration: 2s; 
+  animation-duration: 0.5s; 
   animation-name: slidein; 
   max-width: 100vw;
 }

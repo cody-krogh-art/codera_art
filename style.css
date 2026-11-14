@@ -41,7 +41,8 @@ iframe {
   width: 50vw; 
   height: 25vw; 
 
-  transition: width 1s;
+  -webkit-transition: width 2s;
+  transition: width 2s;
 }
 iframe:hover {
   width: 60vw;

@@ -41,6 +41,10 @@ iframe {
   width: 50vw; 
   height: 25vw; 
 }
+iframe:hover {
+  width: 75vw;
+  height: 50vw;
+}
 img {
   height: 200px;
   width: auto; 

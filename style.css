@@ -40,6 +40,8 @@ a {
 iframe {
   width: 50vw; 
   height: 25vw; 
+
+  transition: width 1s;
 }
 iframe:hover {
   width: 60vw;

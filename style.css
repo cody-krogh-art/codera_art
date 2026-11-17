@@ -87,13 +87,6 @@ a.class2 {
 .center {
   text-align: center
 }
-#instabadge, #linkedinbadge {
-  display: inline-block;
-  flex-wrap: wrap;
-  justify-content: center;
-  margin: auto; 
-  max-height: 200px; 
-}
 @keyframes slidein {
   from {
     translate: 150vw 0;

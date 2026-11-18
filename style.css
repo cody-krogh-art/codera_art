@@ -37,15 +37,15 @@ a {
   font-family: "tahoma";
 }
 iframe {
-  width: 50vw; 
-  height: 25vw; 
+  width: 75vw; 
+  height: 50vw; 
 
   -webkit-transition: all 1s ease;
   transition: all 1s ease;
 }
 iframe:hover {
-  width: 60vw;
-  height: 35vw;
+  width: 80vw;
+  height: 55vw;
 }
 img {
   width: auto; 

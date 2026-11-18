@@ -65,8 +65,8 @@ a.class2 {
   color: #black;
 }
 .header {
-  animation-duration: 1.5s;
-  animation-name: slidein;
+  animation-duration: 1s;
+  animation-name: slidein, fadeIn;
   background-repeat: no-repeat;
   background-size: cover; 
   background-position: center;
@@ -74,16 +74,12 @@ a.class2 {
   width: 100%;
 } 
 .index2 {
-  animation-duration: 1.8s;
-  animation-name: slidein; 
+  animation-duration: 1.5;
+  animation-name: slidein, fadeIn; 
   background-repeat: no-repeat; 
   background-size: cover;
   background-position: center;
   width: 100%;
-}
-.headeranimation {
-  animation-duration: 1.3s;
-  animation-name: slidein; 
 }
 .container {
   display: flex;
@@ -103,4 +99,11 @@ a.class2 {
   }
   to{
     translate: 0 0;
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0.5;
+  }
+  to{
+    opacity: 1;
 }

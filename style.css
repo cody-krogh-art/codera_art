@@ -74,7 +74,7 @@ a.class2 {
   width: 100%;
 } 
 .index2 {
-  animation-duration: 2s;
+  animation-duration: 1.8s;
   animation-name: slidein; 
   background-repeat: no-repeat; 
   background-size: cover;
@@ -82,7 +82,7 @@ a.class2 {
   width: 100%;
 }
 .headeranimation {
-  animation-duration: 1s;
+  animation-duration: 1.3s;
   animation-name: slidein; 
 }
 .container {

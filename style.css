@@ -39,13 +39,6 @@ a {
 iframe {
   width: 75vw; 
   height: 45vw; 
-
-  -webkit-transition: all 1s ease;
-  transition: all 1s ease;
-}
-iframe:hover {
-  width: 80vw;
-  height: 50vw;
 }
 img {
   width: auto; 

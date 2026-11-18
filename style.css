@@ -38,7 +38,7 @@ a {
 }
 iframe {
   width: 75vw; 
-  height: 45vw; 
+  height: auto; 
 }
 img {
   width: 100vw; 

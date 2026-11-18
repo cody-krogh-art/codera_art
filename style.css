@@ -74,7 +74,7 @@ a.class2 {
   width: 100%;
 }
 .container {
-  animation: slidein 1.5s ease, fadein 1.5s ease;
+  animation: slidein 1s ease, fadein 1s ease;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;

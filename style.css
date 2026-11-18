@@ -65,7 +65,7 @@ a.class2 {
   color: #black;
 }
 .header {
-  animation-duration: 1s;
+  animation-duration: 1s, 1s;
   animation-name: slidein, fadeIn;
   background-repeat: no-repeat;
   background-size: cover; 
@@ -74,7 +74,7 @@ a.class2 {
   width: 100%;
 } 
 .index2 {
-  animation-duration: 1.5;
+  animation-duration: 1.5s, 1.5s;
   animation-name: slidein, fadeIn; 
   background-repeat: no-repeat; 
   background-size: cover;

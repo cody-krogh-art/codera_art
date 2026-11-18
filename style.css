@@ -33,7 +33,7 @@ p {
   font-family: "inter";
 }
 a {
-  color:#black;
+  color:black;
   font-family: "inter";
 }
 iframe {
@@ -65,7 +65,7 @@ a.class2 {
   color: #black;
 }
 .header {
-  animation-duration: 0.5s;
+  animation-duration: 1.5s;
   animation-name: slidein;
   background-repeat: no-repeat;
   background-size: cover; 

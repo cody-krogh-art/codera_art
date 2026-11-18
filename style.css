@@ -74,8 +74,7 @@ a.class2 {
   width: 100%;
 } 
 .index2 {
-  animation-duration: 1.5s, 1.5s;
-  animation-name: slidein, fadein; 
+  animation: slidein 1.5s, fadein 1.5s;
   background-repeat: no-repeat; 
   background-size: cover;
   background-position: center;

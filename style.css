@@ -73,11 +73,10 @@ a.class2 {
   min-height: 300px; 
   width: 100%;
 } 
-.header2 {
+.index2 {
   animation-name: slidein; 
   -webkit-transition: all 1s ease;
   transition: all 1s ease;
-  max-width: 100vw;
 }
 .container {
   display: flex;

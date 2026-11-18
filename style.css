@@ -17,24 +17,24 @@ header {
 }
 h1 {
   color:black;
-  font-family: tahoma, sans-serif;
+  font-family: "tahoma";
   font-size: 45px;
 }
 h2 {
   color:black;
-  font-family: tahoma, sans-serif;
+  font-family: "tahoma";
 }
 h3 {
   color:black;
-  font-family: tahoma, sans-serif;
+  font-family: "tahoma";
 }
 p {
   color:black;
-  font-family: tahoma, sans-serif;
+  font-family: "tahoma";
 }
 a {
   color: #dcbe81;
-  font-family: tahoma, sans-serif;
+  font-family: "tahoma";
 }
 iframe {
   width: 50vw; 

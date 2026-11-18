@@ -66,7 +66,7 @@ a.class2 {
 }
 .header {
   animation-duration: 1s, 1s;
-  animation-name: slidein, fadeIn;
+  animation-name: slidein, fadein;
   background-repeat: no-repeat;
   background-size: cover; 
   background-position: center;
@@ -75,7 +75,7 @@ a.class2 {
 } 
 .index2 {
   animation-duration: 1.5s, 1.5s;
-  animation-name: slidein, fadeIn; 
+  animation-name: slidein, fadein; 
   background-repeat: no-repeat; 
   background-size: cover;
   background-position: center;
@@ -100,9 +100,9 @@ a.class2 {
   to{
     translate: 0 0;
 }
-@keyframes fadeIn {
+@keyframes fadein {
   from {
-    opacity: 0.5;
+    opacity: 0;
   }
   to{
     opacity: 1;

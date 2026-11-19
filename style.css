@@ -49,6 +49,8 @@ img {
 }
 video {
   position: inline-block; 
+  width: 75vw;
+  height: 45vw;
   padding: 10px; 
 }
 a.class1 {

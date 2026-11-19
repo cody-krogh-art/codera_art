@@ -85,6 +85,36 @@ a.class2 {
   padding:0;
   max-width: 100vw;
 }
+.container2 {
+  animation: slidein 1.5s ease, fadein 1.5s ease;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+  margin:0;
+  padding:0;
+  max-width: 100vw;
+}
+.container3 {
+  animation: slidein 2s ease, fadein 2s ease;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+  margin:0;
+  padding:0;
+  max-width: 100vw;
+}
+.container4 {
+  animation: slidein 2.5s ease, fadein 2.5s ease;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+  margin:0;
+  padding:0;
+  max-width: 100vw;
+}
 .center {
   text-align: center
 }
